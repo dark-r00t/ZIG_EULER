@@ -4,6 +4,8 @@ Trying out zig and learning the basics.
 
 # Problems completed:
 * [01-09] : 
+    [1](https://github.com/dark-r00t/ZIG_EULER/blob/main/01-09/euler_01/src/main.zig), 
+    [2](https://github.com/dark-r00t/ZIG_EULER/blob/main/01-09/euler_02/src/main.zig), 
     [5](https://github.com/dark-r00t/ZIG_EULER/blob/main/01-09/euler_05/src/main.zig), 
     [6](https://github.com/dark-r00t/ZIG_EULER/blob/main/01-09/euler_06/src/main.zig),
     [7](https://github.com/dark-r00t/ZIG_EULER/blob/main/01-09/euler_07/src/main.zig)
