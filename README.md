@@ -3,7 +3,7 @@ Trying out zig and learning the basics.
 <br>Zig: 0.10.1
 
 # Problems completed:
-* [00-09] : 
+* [01-09] : 
     [5](https://github.com/dark-r00t/ZIG_EULER/blob/main/1-9/euler_05/src/main.zig), 
     [6](https://github.com/dark-r00t/ZIG_EULER/blob/main/1-9/euler_06/src/main.zig)
 * [10-19] :
