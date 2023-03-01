@@ -11,13 +11,13 @@ pub fn main () !void {
 
     while (sum <= limit) {
 
-        if (s % 2 == 0) {
-            sum += s;
+        if (f % 2 == 0) {
+            sum += f;
         }
 
-        const temp = s;
-        s += f;
-        f = temp;
+        const temp: u32 = f;
+        f += s;
+        s = temp;
     }
     
     std.debug.print("{any}\n",.{sum});
